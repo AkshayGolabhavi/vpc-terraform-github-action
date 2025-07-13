@@ -36,10 +36,10 @@ Steps for Commands
 1) First clone the existing repo
 2) Create feature branch  >> git checkout -b 'feature'
 3) Then Edit as per your requement and save all the files
-4) >> git status
-5) >> git add .
-6) >> git commint -m "privide msg as poer your need" (like build infra or destroy infra)
-7) >> git push -u origin feature
+4) VS Code >> git status
+5) VS Code >> git add .
+6) VS Code>> git commint -m "privide msg as poer your need" (like build infra or destroy infra)
+7) VS Code >> git push -u origin feature
 
 Go github GUI and accept all the pull request and marge feature branch to main branch.
 Go to action and check pipeline is running fine or not
