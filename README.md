@@ -43,8 +43,8 @@ Steps for Commands
 
 Note: VS Code Means (Visual studio code terminal you have to run all above commands)
 
-Go github GUI and accept all the pull request and marge feature branch to main branch.
-Go to action and check pipeline is running fine or not
+Go to github GUI and accept all the pull request and marge feature branch to main branch. Once you clicked "confirm marge" then follow the below the step. 
+Go to action and check pipeline is running fine or not.
 
 
 Thank You!
