@@ -41,7 +41,7 @@ Steps for Commands
 6) VS Code>> git commint -m "privide msg as poer your need" (like build infra or destroy infra)
 7) VS Code >> git push -u origin feature
 
-Note: VS Code Means (Visual studio code terminal you have to run above all commands)
+Note: VS Code Means (Visual studio code terminal you have to run all above commands)
 
 Go github GUI and accept all the pull request and marge feature branch to main branch.
 Go to action and check pipeline is running fine or not
