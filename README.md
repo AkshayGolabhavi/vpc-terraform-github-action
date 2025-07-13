@@ -46,5 +46,6 @@ Note: VS Code Means (Visual studio code terminal you have to run all above comma
 Go to github GUI and accept all the pull request and marge feature branch to main branch. Once you clicked "confirm marge" then follow the below the step. 
 Go to action and check pipeline is running fine or not.
 
+https://youtu.be/v4MP7fvLw44?list=PLSV8CKMgPx1EEySIIdw4X_Y8eE82oA8Kf
 
 Thank You!
