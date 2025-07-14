@@ -35,10 +35,10 @@ Before you begin, ensure you have the following prerequisites:
 Steps for Commands
 1) First clone the existing repo
 2) Create feature branch VS Code >> git checkout -b 'feature'
-3) Then Edit as per your requement and save all the files
+3) Then Edit as per your requiment and save all the files
 4) VS Code >> git status
 5) VS Code >> git add .
-6) VS Code >> git commint -m "provide msg as per your need" (like build infra or destroy infra)
+6) VS Code >> git commit -m "provide msg as per your need" (like build infra or destroy infra)
 7) VS Code >> git push -u origin feature
 
 Note: VS Code Means (Visual studio code terminal you have to run all above commands)
